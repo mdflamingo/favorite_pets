@@ -1,6 +1,8 @@
 IP: 158.160.69.232;
 name_taski: https://kropsi.ddnsking.com/;
 name_kittygram: https://kotty.ddns.net/;
-login: yc-user;
-password: NRjeSf;
+login: user;
+password: 5678;
+
+
 
